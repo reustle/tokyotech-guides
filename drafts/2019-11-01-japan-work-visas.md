@@ -1,5 +1,3 @@
-# This is a hidden draft article
-
 _Note:_ This article is tailored towards people in the tech industry. If you do not plan to work in tech, you may have better alternative options.
 <br/><br/>
 
