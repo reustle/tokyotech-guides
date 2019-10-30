@@ -4,9 +4,13 @@ _Note:_ This article is tailored towards people in the tech industry. If you do 
 <br/><br/>
 
 [Engineer Visa](#)
+
 [Branch Manager Visa](#)
+
 [Investor / Business Manager Visa](#)
+
 [Sole Proprietor Visa](#)
+
 [Fukuouka Startup Visa](#)
 
 <br/>
