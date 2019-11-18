@@ -3,6 +3,8 @@ _Note:_ This article is tailored towards people in the tech industry. If you do 
 
 [Engineer Visa](#)
 
+[Engineer Visa w/ Paper CEO](#)
+
 [Branch Manager Visa](#)
 
 [Investor / Business Manager Visa](#)
@@ -28,6 +30,32 @@ Japan is notoriously difficult when it comes to obtaining a work visa. If you're
 - bachelors degree or 10 years of experience, only for engineer visa?</p>
 
 <br/><br/>
+
+**Engineer Visa w/ Paper CEO**
+
+Description:
+It's possible to obtain a Visa to Japan by starting a 2+ person company, where the CEO is a japanese person that acts as a sort of "paper" CEO. According to a local japanese accountant this kind of setup is surprisingly common.
+
+Requirements:
+
+- A business partner/friend you *trust* who is Japanese
+- >=¥1,000,000 initial capital
+- An non-virtual office
+
+Steps:
+
+- Form a Japanese corporation (G.K. is easiest) through your legal counsel or business partner. Your japanese business partner will be the [Representative Director](https://en.wikipedia.org/wiki/Representative_director_(Japan))
+- Wire over initial capital
+- Obtain an office (non-virtual, as it will be the location Engineers might be expected to go to every day)
+- Apply for an Engineer Visa under the newly started company
+
+Notes:
+
+- The first Visa will likely be 1-3 years
+- Your company *must* make enough money to pay a reasonable salary (the lowest this has been observed is ¥200,000/month) for where you choose to live
+- Unlike other Visas, there is not a requirement on working with japanese companies, since you are *not* the representative director
+- It's a good idea to retain legal counsel and/or an accountant once the company is formed, at least for the first year or two.
+- Ownership of the company can be tricky (some places say 50/50, some places go by capital distribution which will be 99/1 in your favor). Avoid greed-induced tension by choosing a good partner or keeping a minimal amount of money in the company.
 
 
 **Branch Manager Visa**
